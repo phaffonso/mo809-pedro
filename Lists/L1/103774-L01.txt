@@ -1,0 +1,8 @@
+Internet of Things for Smart Cities
+Andrea Zanella ;  Nicola Bui ;  Angelo Castellani ;  Lorenzo Vangelista ;  Michele Zorzi
+
+A Internet das Coisas (IoT, do termo em inglês) permitirá que uma enorme quantidade dos mais diversos objetos do cotidiano se conectem com a Internet em um futuro próximo. A quantidade de aplicações possíveis é muito grande e isso faz com que ainda não se tenham definidas soluções que possam ser usadas para todas elas. 
+
+Uma dos maiores contextos de aplicação é o que se chama de Cidades Inteligentes, no qual se tem como objetivo fazer uso de recursos públicos de maneira otimizada, gerando benefícios para os cidadãos e cortando custos da administração pública, por meio principalmente de uma grande quantidade e variedade de sensores que monitoram .
+
+Dentro desse contexto, esse paper lista barreiras políticas, técnicas e financeiras para a implantação de IoT nas cidades, analisa possíveis serviços e o valor que os mesmo podem gerar, propõe uma pilha de protocolos e ums arquitetura de referência e descreve um caso de implementação dessa arquitetura na cidade de Padova, na Itália, apresentando alguns dados coletados. Conclui-se que a implementação de Cidades Inteligentes já é do ponto de vista técnico usando as tecnologias disponíveis atualmente.
